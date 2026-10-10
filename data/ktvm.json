@@ -1,0 +1,1828 @@
+{
+ "title": "Kinh tế vĩ mô – Chương 1–3",
+ "code": "KTVM",
+ "subject": "KTVM",
+ "total": 100,
+ "questions": [
+  {
+   "id": 1,
+   "type": "mcq",
+   "question": "Kinh tế học là môn khoa học xã hội nghiên cứu điều gì?",
+   "options": {
+    "A": "Cách doanh nghiệp tối đa hóa lợi nhuận bằng mọi giá",
+    "B": "Cách tạo ra nguồn lực vô hạn cho xã hội",
+    "C": "Cách xã hội sử dụng các nguồn lực có hạn để đáp ứng nhu cầu của con người",
+    "D": "Cách chính phủ in tiền để tài trợ chi tiêu"
+   },
+   "answers": [
+    "C"
+   ],
+   "choose": 1,
+   "note": "Chương 1 – Giới thiệu về kinh tế học vĩ mô, slide 4",
+   "alt": null,
+   "explanation": "Đáp án đúng: C. Cách xã hội sử dụng các nguồn lực có hạn để đáp ứng nhu cầu của con người\n\nĐịnh nghĩa trong bài: kinh tế học nghiên cứu cách xã hội sử dụng nguồn lực KHAN HIẾM (có hạn) để đáp ứng nhu cầu con người. Các phương án khác chỉ là một khía cạnh hẹp (lợi nhuận DN, in tiền) hoặc sai bản chất (nguồn lực không bao giờ vô hạn).",
+   "exam": "Chương 1"
+  },
+  {
+   "id": 2,
+   "type": "mcq",
+   "question": "Yếu tố nào sau đây KHÔNG thuộc nhóm các yếu tố sản xuất được nêu trong bài?",
+   "options": {
+    "A": "Tiền mặt dự trữ trong két của hộ gia đình",
+    "B": "Công nghệ",
+    "C": "Lao động (L)",
+    "D": "Tư bản (K)"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 1 – Giới thiệu về kinh tế học vĩ mô, slide 5",
+   "alt": null,
+   "explanation": "Đáp án đúng: A. Tiền mặt dự trữ trong két của hộ gia đình\n\nCác yếu tố sản xuất gồm: lao động, tài nguyên thiên nhiên, tư bản và công nghệ — là đầu vào để sản xuất hàng hóa, dịch vụ. Tiền mặt cất trữ không trực tiếp tham gia sản xuất nên không phải yếu tố sản xuất.",
+   "exam": "Chương 1"
+  },
+  {
+   "id": 3,
+   "type": "mcq",
+   "question": "Theo bài giảng, \"Mười nguyên lý của kinh tế học\" được chia thành ba nhóm câu hỏi nào?",
+   "options": {
+    "A": "Con người ra quyết định thế nào; con người tương tác thế nào; nền kinh tế vận hành thế nào",
+    "B": "Tiêu dùng; đầu tư; chi tiêu chính phủ",
+    "C": "Sản xuất cái gì; sản xuất thế nào; sản xuất cho ai",
+    "D": "Cung; cầu; giá cả"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 1 – Giới thiệu về kinh tế học vĩ mô, slide 6",
+   "alt": null,
+   "explanation": "Đáp án đúng: A. Con người ra quyết định thế nào; con người tương tác thế nào; nền kinh tế vận hành thế nào\n\nBài chia 10 nguyên lý thành 3 nhóm: ra quyết định (1–4), tương tác (5–7), vận hành của nền kinh tế (8–10). \"Sản xuất cái gì, thế nào, cho ai\" là ba vấn đề kinh tế cơ bản, không phải cách phân nhóm 10 nguyên lý; C, I, G là thành phần GDP.",
+   "exam": "Chương 1"
+  },
+  {
+   "id": 4,
+   "type": "mcq",
+   "question": "Nguyên lý \"Con người đối mặt với sự đánh đổi\" thuộc nhóm nào?",
+   "options": {
+    "A": "Nền kinh tế vận hành như thế nào",
+    "B": "Vai trò của chính phủ trong thị trường",
+    "C": "Con người ra quyết định như thế nào",
+    "D": "Con người tương tác với nhau như thế nào"
+   },
+   "answers": [
+    "C"
+   ],
+   "choose": 1,
+   "note": "Chương 1 – Giới thiệu về kinh tế học vĩ mô, slide 7",
+   "alt": null,
+   "explanation": "Đáp án đúng: C. Con người ra quyết định như thế nào\n\nNguyên lý 1–4 (đánh đổi, chi phí cơ hội, suy nghĩ tại điểm cận biên, phản ứng với khuyến khích) đều thuộc nhóm \"Con người ra quyết định như thế nào\".",
+   "exam": "Chương 1"
+  },
+  {
+   "id": 5,
+   "type": "mcq",
+   "question": "\"Chi phí của một thứ là cái mà bạn từ bỏ để có được nó\" mô tả khái niệm nào?",
+   "options": {
+    "A": "Chi phí cận biên của doanh nghiệp",
+    "B": "Chi phí kế toán",
+    "C": "Chi phí cơ hội",
+    "D": "Chi phí chìm"
+   },
+   "answers": [
+    "C"
+   ],
+   "choose": 1,
+   "note": "Chương 1 – Giới thiệu về kinh tế học vĩ mô, slide 7",
+   "alt": null,
+   "explanation": "Đáp án đúng: C. Chi phí cơ hội\n\nCái bị từ bỏ để có được một thứ chính là chi phí cơ hội (nguyên lý 2). Chi phí kế toán chỉ tính khoản chi bằng tiền; chi phí chìm là khoản đã bỏ ra không thu hồi được; chi phí cận biên là chi phí của thêm một đơn vị.",
+   "exam": "Chương 1"
+  },
+  {
+   "id": 6,
+   "type": "mcq",
+   "question": "Nguyên lý \"Thương mại có thể làm cho mọi người đều được lợi\" thuộc nhóm nào?",
+   "options": {
+    "A": "Nguyên lý về lạm phát",
+    "B": "Con người tương tác với nhau như thế nào",
+    "C": "Con người ra quyết định như thế nào",
+    "D": "Nền kinh tế vận hành như thế nào"
+   },
+   "answers": [
+    "B"
+   ],
+   "choose": 1,
+   "note": "Chương 1 – Giới thiệu về kinh tế học vĩ mô, slide 8",
+   "alt": null,
+   "explanation": "Đáp án đúng: B. Con người tương tác với nhau như thế nào\n\nNguyên lý 5 (thương mại), 6 (thị trường là phương thức tốt) và 7 (chính phủ đôi khi cải thiện kết cục thị trường) thuộc nhóm \"tương tác\".",
+   "exam": "Chương 1"
+  },
+  {
+   "id": 7,
+   "type": "mcq",
+   "question": "Nguyên lý nào sau đây thuộc nhóm \"Nền kinh tế vận hành như thế nào\"?",
+   "options": {
+    "A": "Giá cả tăng khi chính phủ in quá nhiều tiền",
+    "B": "Thị trường thường là một phương thức tốt để tổ chức hoạt động kinh tế",
+    "C": "Con người duy lý suy nghĩ tại điểm cận biên",
+    "D": "Con người phản ứng với các động cơ khuyến khích"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 1 – Giới thiệu về kinh tế học vĩ mô, slide 9",
+   "alt": null,
+   "explanation": "Đáp án đúng: A. Giá cả tăng khi chính phủ in quá nhiều tiền\n\nNhóm \"vận hành\" gồm nguyên lý 8 (mức sống phụ thuộc năng lực sản xuất), 9 (in nhiều tiền → giá tăng), 10 (đánh đổi ngắn hạn lạm phát – thất nghiệp). Các phương án còn lại thuộc nhóm ra quyết định hoặc tương tác.",
+   "exam": "Chương 1"
+  },
+  {
+   "id": 8,
+   "type": "mcq",
+   "question": "Theo mười nguyên lý, mức sống của một nước phụ thuộc chủ yếu vào điều gì?",
+   "options": {
+    "A": "Lượng tiền chính phủ in ra",
+    "B": "Số lượng người tiêu dùng trong nước",
+    "C": "Năng lực sản xuất hàng hóa và dịch vụ của nước đó",
+    "D": "Diện tích lãnh thổ của quốc gia"
+   },
+   "answers": [
+    "C"
+   ],
+   "choose": 1,
+   "note": "Chương 1 – Giới thiệu về kinh tế học vĩ mô, slide 9",
+   "alt": null,
+   "explanation": "Đáp án đúng: C. Năng lực sản xuất hàng hóa và dịch vụ của nước đó\n\nNguyên lý 8: mức sống phụ thuộc vào năng lực sản xuất (năng suất). In nhiều tiền chỉ gây lạm phát (nguyên lý 9); diện tích hay số dân không quyết định mức sống.",
+   "exam": "Chương 1"
+  },
+  {
+   "id": 9,
+   "type": "mcq",
+   "question": "Trong ngắn hạn, xã hội đối mặt với sự đánh đổi giữa hai biến số nào?",
+   "options": {
+    "A": "Xuất khẩu và nhập khẩu",
+    "B": "Tiết kiệm và đầu tư",
+    "C": "GDP và GNP",
+    "D": "Lạm phát và thất nghiệp"
+   },
+   "answers": [
+    "D"
+   ],
+   "choose": 1,
+   "note": "Chương 1 – Giới thiệu về kinh tế học vĩ mô, slide 9",
+   "alt": null,
+   "explanation": "Đáp án đúng: D. Lạm phát và thất nghiệp\n\nNguyên lý 10: xã hội đối mặt với đánh đổi ngắn hạn giữa lạm phát và thất nghiệp (giảm lạm phát thường kéo theo thất nghiệp tạm thời tăng).",
+   "exam": "Chương 1"
+  },
+  {
+   "id": 10,
+   "type": "mcq",
+   "question": "Trong sơ đồ chu chuyển, hộ gia đình đóng vai trò gì trên thị trường các yếu tố sản xuất?",
+   "options": {
+    "A": "Người bán (cung cấp lao động, đất đai, vốn)",
+    "B": "Không tham gia thị trường này",
+    "C": "Người mua lao động, đất đai và vốn",
+    "D": "Người bán hàng hóa và dịch vụ"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 1 – Giới thiệu về kinh tế học vĩ mô, slide 12",
+   "alt": null,
+   "explanation": "Đáp án đúng: A. Người bán (cung cấp lao động, đất đai, vốn)\n\nHộ gia đình sở hữu và bán các yếu tố sản xuất cho doanh nghiệp, nhận lại lương, tiền thuê, lợi nhuận. Doanh nghiệp mới là người mua yếu tố sản xuất và là người bán hàng hóa, dịch vụ.",
+   "exam": "Chương 1"
+  },
+  {
+   "id": 11,
+   "type": "mcq",
+   "question": "Trong sơ đồ chu chuyển, dòng \"lương, tiền thuê và lợi nhuận\" chảy theo chiều nào?",
+   "options": {
+    "A": "Từ hộ gia đình đến doanh nghiệp qua thị trường các yếu tố sản xuất",
+    "B": "Từ chính phủ đến doanh nghiệp",
+    "C": "Từ hộ gia đình đến doanh nghiệp qua thị trường hàng hóa và dịch vụ",
+    "D": "Từ doanh nghiệp đến hộ gia đình qua thị trường các yếu tố sản xuất"
+   },
+   "answers": [
+    "D"
+   ],
+   "choose": 1,
+   "note": "Chương 1 – Giới thiệu về kinh tế học vĩ mô, slide 12",
+   "alt": null,
+   "explanation": "Đáp án đúng: D. Từ doanh nghiệp đến hộ gia đình qua thị trường các yếu tố sản xuất\n\nDoanh nghiệp trả lương, tiền thuê, lợi nhuận cho hộ gia đình để mua các yếu tố sản xuất; với hộ gia đình đây là thu nhập. Dòng từ hộ gia đình đến doanh nghiệp là chi tiêu mua hàng hóa, dịch vụ.",
+   "exam": "Chương 1"
+  },
+  {
+   "id": 12,
+   "type": "mcq",
+   "question": "Một điểm nằm BÊN TRONG đường giới hạn khả năng sản xuất (PPF) thể hiện điều gì?",
+   "options": {
+    "A": "Nền kinh tế đang sản xuất không hiệu quả",
+    "B": "Nền kinh tế đang tăng trưởng",
+    "C": "Mức sản lượng không thể đạt được với nguồn lực hiện có",
+    "D": "Nền kinh tế sản xuất hiệu quả"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 1 – Giới thiệu về kinh tế học vĩ mô, slide 13",
+   "alt": null,
+   "explanation": "Đáp án đúng: A. Nền kinh tế đang sản xuất không hiệu quả\n\nĐiểm nằm trên PPF là hiệu quả; điểm bên trong là chưa tận dụng hết nguồn lực (không hiệu quả); điểm bên ngoài là không thể đạt được với nguồn lực và công nghệ hiện tại. Tăng trưởng thể hiện bằng PPF dịch ra ngoài.",
+   "exam": "Chương 1"
+  },
+  {
+   "id": 13,
+   "type": "mcq",
+   "question": "Yếu tố nào làm đường PPF dịch chuyển ra ngoài?",
+   "options": {
+    "A": "Giá hàng hóa tăng",
+    "B": "Thất nghiệp gia tăng",
+    "C": "Chuyển nguồn lực từ sản xuất ô tô sang máy tính",
+    "D": "Tiến bộ công nghệ"
+   },
+   "answers": [
+    "D"
+   ],
+   "choose": 1,
+   "note": "Chương 1 – Giới thiệu về kinh tế học vĩ mô, slide 16",
+   "alt": null,
+   "explanation": "Đáp án đúng: D. Tiến bộ công nghệ\n\nTheo bài, PPF dịch ra ngoài nhờ tăng trưởng kinh tế, cụ thể do tích lũy tư bản và tiến bộ công nghệ. Thất nghiệp đưa nền kinh tế vào bên trong PPF; chuyển nguồn lực giữa hai ngành chỉ là di chuyển dọc theo PPF.",
+   "exam": "Chương 1"
+  },
+  {
+   "id": 14,
+   "type": "mcq",
+   "question": "Khái niệm nào sau đây KHÔNG được minh họa trực tiếp bằng đường PPF?",
+   "options": {
+    "A": "Tăng trưởng kinh tế",
+    "B": "Lạm phát",
+    "C": "Chi phí cơ hội",
+    "D": "Sự đánh đổi"
+   },
+   "answers": [
+    "B"
+   ],
+   "choose": 1,
+   "note": "Chương 1 – Giới thiệu về kinh tế học vĩ mô, slide 15",
+   "alt": null,
+   "explanation": "Đáp án đúng: B. Lạm phát\n\nPPF minh họa: hiệu quả, sự đánh đổi, chi phí cơ hội và tăng trưởng kinh tế. PPF đo lượng hàng hóa thực, không chứa thông tin về mức giá nên không thể hiện lạm phát.",
+   "exam": "Chương 1"
+  },
+  {
+   "id": 15,
+   "type": "mcq",
+   "question": "Nội dung nào thuộc phạm vi nghiên cứu của kinh tế học VĨ MÔ?",
+   "options": {
+    "A": "Giá kem trên một thị trường cụ thể",
+    "B": "Ảnh hưởng của giá thịt đến lượng mua của một hộ gia đình",
+    "C": "Quyết định thuê thêm nhân viên của một cửa hàng",
+    "D": "Tác động của vay nợ chính phủ đến tăng trưởng kinh tế cả nước"
+   },
+   "answers": [
+    "D"
+   ],
+   "choose": 1,
+   "note": "Chương 1 – Giới thiệu về kinh tế học vĩ mô, slide 17",
+   "alt": null,
+   "explanation": "Đáp án đúng: D. Tác động của vay nợ chính phủ đến tăng trưởng kinh tế cả nước\n\nKinh tế vĩ mô nghiên cứu nền kinh tế như một tổng thể (tăng trưởng, lạm phát, thất nghiệp, chính sách quốc gia). Các phương án còn lại xem xét đơn vị kinh tế cá biệt hoặc thị trường cụ thể — thuộc kinh tế vi mô.",
+   "exam": "Chương 1"
+  },
+  {
+   "id": 16,
+   "type": "mcq",
+   "question": "Phát biểu nào sau đây là phát biểu CHUẨN TẮC?",
+   "options": {
+    "A": "Chính phủ nên tăng lương tối thiểu",
+    "B": "Tăng lương tối thiểu làm tăng thất nghiệp ở lao động trẻ",
+    "C": "Khi giá tăng, lượng cầu giảm",
+    "D": "Năm ngoái tỷ lệ lạm phát là 4%"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 1 – Giới thiệu về kinh tế học vĩ mô, slide 18",
+   "alt": null,
+   "explanation": "Đáp án đúng: A. Chính phủ nên tăng lương tối thiểu\n\nPhân tích chuẩn tắc chỉ ra sự việc NÊN diễn ra thế nào (có chữ \"nên\", mang tính giá trị). Các phương án còn lại mô tả thế giới như nó vốn có, có thể kiểm chứng bằng dữ liệu → thực chứng.",
+   "exam": "Chương 1"
+  },
+  {
+   "id": 17,
+   "type": "mcq",
+   "question": "Thị trường cạnh tranh là thị trường có đặc điểm gì?",
+   "options": {
+    "A": "Nhiều người mua và người bán, mỗi người không có khả năng ảnh hưởng đến giá thị trường",
+    "B": "Giá do chính phủ ấn định",
+    "C": "Có ít người bán và họ phối hợp với nhau để định giá",
+    "D": "Chỉ có một người bán quyết định giá"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 1 – Giới thiệu về kinh tế học vĩ mô, slide 20",
+   "alt": null,
+   "explanation": "Đáp án đúng: A. Nhiều người mua và người bán, mỗi người không có khả năng ảnh hưởng đến giá thị trường\n\nĐịnh nghĩa trong bài: thị trường cạnh tranh có nhiều người bán và mua, mỗi người không đủ sức tác động đến giá. Một người bán là độc quyền; ít người bán phối hợp là cartel/độc quyền nhóm.",
+   "exam": "Chương 1"
+  },
+  {
+   "id": 18,
+   "type": "mcq",
+   "question": "Tại mức giá thị trường làm cho lượng cung bằng lượng cầu, ta gọi đó là:",
+   "options": {
+    "A": "Điểm thiếu hụt",
+    "B": "Điểm dư thừa",
+    "C": "Điểm cân bằng",
+    "D": "Điểm giới hạn khả năng sản xuất"
+   },
+   "answers": [
+    "C"
+   ],
+   "choose": 1,
+   "note": "Chương 1 – Giới thiệu về kinh tế học vĩ mô, slide 28",
+   "alt": null,
+   "explanation": "Đáp án đúng: C. Điểm cân bằng\n\nĐiểm cân bằng là tình huống giá thị trường làm lượng cung bằng lượng cầu; mức giá đó là giá cân bằng, lượng tương ứng là sản lượng cân bằng. Dư thừa (cung > cầu) và thiếu hụt (cầu > cung) xảy ra khi giá lệch khỏi cân bằng.",
+   "exam": "Chương 1"
+  },
+  {
+   "id": 19,
+   "type": "tf",
+   "question": "Kinh tế học nghiên cứu cách xã hội quản lý các nguồn lực khan hiếm (có hạn).",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 1 – Giới thiệu về kinh tế học vĩ mô, slide 4",
+   "alt": null,
+   "explanation": "ĐÚNG. Đây chính là định nghĩa kinh tế học trong bài: khoa học xã hội nghiên cứu cách xã hội sử dụng nguồn lực có hạn nhằm đáp ứng nhu cầu con người.",
+   "exam": "Chương 1"
+  },
+  {
+   "id": 20,
+   "type": "tf",
+   "question": "Con người duy lý ra quyết định bằng cách so sánh lợi ích cận biên và chi phí cận biên.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 1 – Giới thiệu về kinh tế học vĩ mô, slide 7",
+   "alt": null,
+   "explanation": "ĐÚNG. Nguyên lý 3: con người duy lý suy nghĩ tại điểm cận biên — chỉ thực hiện thêm một hoạt động khi lợi ích tăng thêm lớn hơn chi phí tăng thêm.",
+   "exam": "Chương 1"
+  },
+  {
+   "id": 21,
+   "type": "tf",
+   "question": "Thương mại giữa hai quốc gia luôn là trò chơi có tổng bằng 0: một nước được thì nước kia mất.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "B"
+   ],
+   "choose": 1,
+   "note": "Chương 1 – Giới thiệu về kinh tế học vĩ mô, slide 8",
+   "alt": null,
+   "explanation": "SAI. Nguyên lý 5 khẳng định thương mại có thể làm cho MỌI bên đều được lợi, vì cho phép mỗi bên chuyên môn hóa vào việc mình làm tốt nhất và trao đổi để có nhiều hàng hóa, dịch vụ hơn.",
+   "exam": "Chương 1"
+  },
+  {
+   "id": 22,
+   "type": "tf",
+   "question": "Theo mười nguyên lý của kinh tế học, chính phủ không bao giờ có thể cải thiện được kết cục thị trường.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "B"
+   ],
+   "choose": 1,
+   "note": "Chương 1 – Giới thiệu về kinh tế học vĩ mô, slide 8",
+   "alt": null,
+   "explanation": "SAI. Nguyên lý 7: ĐÔI KHI chính phủ có thể cải thiện kết cục thị trường (ví dụ khi có thất bại thị trường như ngoại tác, quyền lực thị trường). Thị trường thường là tốt (nguyên lý 6) nhưng không phải lúc nào cũng hoàn hảo.",
+   "exam": "Chương 1"
+  },
+  {
+   "id": 23,
+   "type": "tf",
+   "question": "Theo mười nguyên lý, giá cả tăng khi chính phủ in quá nhiều tiền.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 1 – Giới thiệu về kinh tế học vĩ mô, slide 9",
+   "alt": null,
+   "explanation": "ĐÚNG. Nguyên lý 9: khi chính phủ in quá nhiều tiền, giá trị của tiền giảm và mức giá chung tăng — tức lạm phát.",
+   "exam": "Chương 1"
+  },
+  {
+   "id": 24,
+   "type": "tf",
+   "question": "Nhà kinh tế học sử dụng các giả định để đơn giản hóa vấn đề phức tạp, giúp dễ hiểu hơn.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 1 – Giới thiệu về kinh tế học vĩ mô, slide 11",
+   "alt": null,
+   "explanation": "ĐÚNG. Với tư cách nhà khoa học, nhà kinh tế dùng giả định và mô hình (sơ đồ chu chuyển, PPF) để giải thích thế giới; giả định giúp đơn giản hóa vấn đề phức tạp.",
+   "exam": "Chương 1"
+  },
+  {
+   "id": 25,
+   "type": "tf",
+   "question": "Trong sơ đồ chu chuyển, doanh nghiệp là người bán trên thị trường các yếu tố sản xuất.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "B"
+   ],
+   "choose": 1,
+   "note": "Chương 1 – Giới thiệu về kinh tế học vĩ mô, slide 12",
+   "alt": null,
+   "explanation": "SAI. Trên thị trường các yếu tố sản xuất, doanh nghiệp là người MUA (thuê lao động, đất đai, vốn); hộ gia đình mới là người bán. Doanh nghiệp là người bán trên thị trường hàng hóa và dịch vụ.",
+   "exam": "Chương 1"
+  },
+  {
+   "id": 26,
+   "type": "tf",
+   "question": "Một điểm nằm bên ngoài đường PPF là mức sản lượng không thể đạt được với nguồn lực và công nghệ hiện có.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 1 – Giới thiệu về kinh tế học vĩ mô, slide 13",
+   "alt": null,
+   "explanation": "ĐÚNG. PPF là tập hợp các mức sản lượng tối đa có thể sản xuất với nguồn lực và công nghệ hiện có; điểm bên ngoài vượt quá khả năng đó. Chỉ khi PPF dịch ra ngoài (tăng trưởng) thì điểm đó mới có thể đạt được.",
+   "exam": "Chương 1"
+  },
+  {
+   "id": 27,
+   "type": "tf",
+   "question": "Kinh tế học vi mô và kinh tế học vĩ mô hoàn toàn độc lập, không liên quan đến nhau.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "B"
+   ],
+   "choose": 1,
+   "note": "Chương 1 – Giới thiệu về kinh tế học vĩ mô, slide 17",
+   "alt": null,
+   "explanation": "SAI. Vi mô nghiên cứu các đơn vị cá biệt, vĩ mô nghiên cứu nền kinh tế như tổng thể; nhưng các biến động vĩ mô là kết quả của vô số quyết định vi mô nên hai lĩnh vực gắn bó chặt chẽ với nhau.",
+   "exam": "Chương 1"
+  },
+  {
+   "id": 28,
+   "type": "tf",
+   "question": "\"Năm 2023 tỷ lệ thất nghiệp của Việt Nam khoảng 2,3%\" là một phát biểu thực chứng.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 1 – Giới thiệu về kinh tế học vĩ mô, slide 18",
+   "alt": null,
+   "explanation": "ĐÚNG. Phát biểu thực chứng mô tả thế giới như nó vốn có và có thể kiểm chứng bằng số liệu. Câu này không đưa ra đánh giá \"nên\" hay \"không nên\" nên không phải chuẩn tắc.",
+   "exam": "Chương 1"
+  },
+  {
+   "id": 29,
+   "type": "tf",
+   "question": "Quy luật cầu phát biểu rằng, các yếu tố khác không đổi, khi giá một hàng hóa tăng thì lượng cầu hàng hóa đó tăng.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "B"
+   ],
+   "choose": 1,
+   "note": "Chương 1 – Giới thiệu về kinh tế học vĩ mô, slide 21",
+   "alt": null,
+   "explanation": "SAI. Quy luật cầu: các yếu tố khác không đổi, khi giá tăng thì lượng cầu GIẢM (quan hệ nghịch biến). Quan hệ đồng biến giữa giá và lượng là quy luật cung.",
+   "exam": "Chương 1"
+  },
+  {
+   "id": 30,
+   "type": "tf",
+   "question": "Cầu thị trường là tổng cầu của tất cả người mua về một hàng hóa.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 1 – Giới thiệu về kinh tế học vĩ mô, slide 27",
+   "alt": null,
+   "explanation": "ĐÚNG. Cầu thị trường được tính bằng cách cộng lượng cầu của tất cả người mua tại mỗi mức giá; tương tự cung thị trường là tổng cung của tất cả người bán.",
+   "exam": "Chương 1"
+  },
+  {
+   "id": 31,
+   "type": "mcq",
+   "question": "GDP là giá trị thị trường của:",
+   "options": {
+    "A": "Tất cả hàng hóa được bán ra trong năm, kể cả hàng đã qua sử dụng",
+    "B": "Tất cả hàng hóa và dịch vụ do công dân một nước sản xuất ra, dù ở đâu",
+    "C": "Tất cả hàng hóa trung gian và cuối cùng được sản xuất trong một nước",
+    "D": "Tất cả hàng hóa và dịch vụ cuối cùng được sản xuất trong phạm vi lãnh thổ một nước trong một thời kỳ nhất định"
+   },
+   "answers": [
+    "D"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 6",
+   "alt": null,
+   "explanation": "Đáp án đúng: D. Tất cả hàng hóa và dịch vụ cuối cùng được sản xuất trong phạm vi lãnh thổ một nước trong một thời kỳ nhất định\n\nĐịnh nghĩa GDP: giá trị thị trường – hàng hóa và dịch vụ CUỐI CÙNG – sản xuất trong LÃNH THỔ – trong một thời kỳ. Tính cả hàng trung gian là tính trùng; \"do công dân sản xuất dù ở đâu\" là GNP; hàng đã qua sử dụng không phải sản xuất trong kỳ.",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 32,
+   "type": "mcq",
+   "question": "Vì sao đối với tổng thể nền kinh tế, thu nhập bằng chi tiêu?",
+   "options": {
+    "A": "Vì chính phủ quy định như vậy",
+    "B": "Vì doanh nghiệp không có lợi nhuận",
+    "C": "Vì mỗi đồng chi tiêu của người mua là một đồng thu nhập của người bán",
+    "D": "Vì hộ gia đình luôn tiêu hết thu nhập"
+   },
+   "answers": [
+    "C"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 3",
+   "alt": null,
+   "explanation": "Đáp án đúng: C. Vì mỗi đồng chi tiêu của người mua là một đồng thu nhập của người bán\n\nMọi giao dịch đều có người mua và người bán; số tiền người mua chi ra đúng bằng số tiền người bán nhận được. Vì vậy GDP vừa đo tổng thu nhập vừa đo tổng chi tiêu.",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 33,
+   "type": "mcq",
+   "question": "Khoản nào sau đây được tính vào GDP của Việt Nam năm nay?",
+   "options": {
+    "A": "Một căn nhà xây năm 2010 được bán lại năm nay",
+    "B": "Công việc nội trợ một người tự làm tại nhà",
+    "C": "Bột mì một tiệm bánh mua để làm bánh mì",
+    "D": "Dịch vụ cắt tóc tại một tiệm ở Hà Nội trong năm nay"
+   },
+   "answers": [
+    "D"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 8",
+   "alt": null,
+   "explanation": "Đáp án đúng: D. Dịch vụ cắt tóc tại một tiệm ở Hà Nội trong năm nay\n\nDịch vụ cắt tóc là hàng vô hình cuối cùng, sản xuất trong kỳ và có giá thị trường → tính vào GDP. Bột mì là hàng trung gian (đã nằm trong giá bánh mì); nhà xây 2010 thuộc kỳ khác; nội trợ tự làm không qua thị trường nên không tính.",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 34,
+   "type": "mcq",
+   "question": "Vì sao GDP chỉ tính hàng hóa cuối cùng mà không tính hàng hóa trung gian?",
+   "options": {
+    "A": "Vì giá trị hàng hóa cuối cùng đã bao gồm giá trị hàng hóa trung gian, tính thêm sẽ bị tính trùng",
+    "B": "Vì hàng hóa trung gian không có giá thị trường",
+    "C": "Vì hàng hóa trung gian luôn được nhập khẩu",
+    "D": "Vì hàng hóa trung gian không do doanh nghiệp sản xuất"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 9",
+   "alt": null,
+   "explanation": "Đáp án đúng: A. Vì giá trị hàng hóa cuối cùng đã bao gồm giá trị hàng hóa trung gian, tính thêm sẽ bị tính trùng\n\nHàng trung gian được dùng làm đầu vào và đã kết tinh trong giá trị sản phẩm cuối cùng. Nếu cộng cả hai sẽ đếm một giá trị hai lần. Hàng trung gian vẫn có giá thị trường và có thể sản xuất trong nước.",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 35,
+   "type": "mcq",
+   "question": "Một công ty Hàn Quốc sản xuất điện thoại tại nhà máy ở Bắc Ninh. Giá trị điện thoại này được tính vào:",
+   "options": {
+    "A": "GDP của Hàn Quốc",
+    "B": "GDP của Việt Nam",
+    "C": "Không tính vào chỉ tiêu nào",
+    "D": "GNP của Việt Nam"
+   },
+   "answers": [
+    "B"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 11",
+   "alt": null,
+   "explanation": "Đáp án đúng: B. GDP của Việt Nam\n\nGDP tính theo LÃNH THỔ: sản xuất trong lãnh thổ Việt Nam thì tính vào GDP Việt Nam, dù chủ sở hữu là người nước ngoài. Giá trị này tính vào GNP của Hàn Quốc (theo quốc tịch), không phải GNP Việt Nam.",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 36,
+   "type": "mcq",
+   "question": "Thời kỳ thông thường để tính GDP là:",
+   "options": {
+    "A": "Một năm hoặc một quý",
+    "B": "Mười năm",
+    "C": "Một nhiệm kỳ chính phủ",
+    "D": "Một tuần"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 12",
+   "alt": null,
+   "explanation": "Đáp án đúng: A. Một năm hoặc một quý\n\nTheo bài, GDP thường được tính theo năm hoặc theo quý (3 tháng).",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 37,
+   "type": "mcq",
+   "question": "Công thức tính GDP theo phương pháp chi tiêu là:",
+   "options": {
+    "A": "Y = C + I + G + EX + IM",
+    "B": "Y = C + I − G + NX",
+    "C": "Y = C + I + G + NX",
+    "D": "Y = C + S + T"
+   },
+   "answers": [
+    "C"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 13",
+   "alt": null,
+   "explanation": "Đáp án đúng: C. Y = C + I + G + NX\n\nGDP gồm 4 thành phần chi tiêu: tiêu dùng (C), đầu tư (I), mua sắm của chính phủ (G), xuất khẩu ròng (NX = EX − IM). Cộng cả IM là sai vì nhập khẩu phải trừ đi; C + S + T là cách phân bổ thu nhập.",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 38,
+   "type": "mcq",
+   "question": "Một gia đình sống trong căn nhà của chính mình. Theo cách tính GDP, khoản nào được tính vào tiêu dùng (C)?",
+   "options": {
+    "A": "Giá trị \"tiền thuê nhà\" quy đổi mà chủ nhà \"tự trả\" cho chính mình",
+    "B": "Tiền lãi vay mua nhà",
+    "C": "Giá mua căn nhà",
+    "D": "Không tính gì vì không có giao dịch"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 14",
+   "alt": null,
+   "explanation": "Đáp án đúng: A. Giá trị \"tiền thuê nhà\" quy đổi mà chủ nhà \"tự trả\" cho chính mình\n\nBài nêu: với chủ nhà, C bao gồm \"tiền thuê nhà\" mà người sở hữu tự trả cho mình (giá trị quy đổi). Mua nhà mới thuộc đầu tư (I) vào nhà ở, không phải C.",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 39,
+   "type": "mcq",
+   "question": "Khoản nào sau đây được tính vào ĐẦU TƯ (I) trong GDP?",
+   "options": {
+    "A": "Một người mua cổ phiếu của công ty niêm yết",
+    "B": "Hộ gia đình mua tủ lạnh",
+    "C": "Chính phủ trả trợ cấp thất nghiệp",
+    "D": "Doanh nghiệp mua máy móc mới và hàng tồn kho tăng thêm"
+   },
+   "answers": [
+    "D"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 15",
+   "alt": null,
+   "explanation": "Đáp án đúng: D. Doanh nghiệp mua máy móc mới và hàng tồn kho tăng thêm\n\nI gồm đầu tư cố định vào kinh doanh, đầu tư cố định vào nhà ở và đầu tư vào hàng tồn kho. Mua cổ phiếu là giao dịch tài chính (chuyển quyền sở hữu), không tạo hàng hóa mới; tủ lạnh thuộc C; trợ cấp là chi chuyển khoản.",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 40,
+   "type": "mcq",
+   "question": "Khoản nào KHÔNG được tính vào mua sắm của chính phủ (G)?",
+   "options": {
+    "A": "Trợ cấp cho người già",
+    "B": "Mua trang thiết bị quân sự",
+    "C": "Chi xây dựng đường cao tốc",
+    "D": "Lương trả cho giáo viên trường công"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 16",
+   "alt": null,
+   "explanation": "Đáp án đúng: A. Trợ cấp cho người già\n\nG là chi tiêu của chính phủ cho hàng hóa, dịch vụ. Trợ cấp người già, trợ cấp thất nghiệp là chi CHUYỂN KHOẢN — chỉ chuyển thu nhập, không đổi lại hàng hóa/dịch vụ nào nên không tính vào G.",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 41,
+   "type": "mcq",
+   "question": "Xuất khẩu ròng (NX) được tính bằng:",
+   "options": {
+    "A": "Xuất khẩu + Nhập khẩu",
+    "B": "Nhập khẩu − Xuất khẩu",
+    "C": "Xuất khẩu − Tiêu dùng",
+    "D": "Xuất khẩu − Nhập khẩu"
+   },
+   "answers": [
+    "D"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 17",
+   "alt": null,
+   "explanation": "Đáp án đúng: D. Xuất khẩu − Nhập khẩu\n\nNX = EX − IM. Xuất khẩu là chi tiêu của nước ngoài cho hàng trong nước (cộng vào), nhập khẩu là phần C, I, G chi cho hàng sản xuất ở nước ngoài (phải trừ ra).",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 42,
+   "type": "mcq",
+   "question": "Một hộ gia đình Việt Nam mua chiếc ô tô 1 tỷ đồng nhập khẩu nguyên chiếc từ Nhật. Tác động đến GDP Việt Nam là:",
+   "options": {
+    "A": "I tăng 1 tỷ, GDP tăng 1 tỷ",
+    "B": "C tăng 1 tỷ, NX giảm 1 tỷ, GDP không đổi",
+    "C": "NX tăng 1 tỷ, GDP tăng 1 tỷ",
+    "D": "C tăng 1 tỷ, GDP tăng 1 tỷ"
+   },
+   "answers": [
+    "B"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 17",
+   "alt": null,
+   "explanation": "Đáp án đúng: B. C tăng 1 tỷ, NX giảm 1 tỷ, GDP không đổi\n\nChi mua xe tính vào C nhưng xe sản xuất ở nước ngoài nên nhập khẩu tăng 1 tỷ (NX giảm 1 tỷ). Hai tác động triệt tiêu, GDP không đổi — đúng vì xe không được sản xuất trong lãnh thổ Việt Nam.",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 43,
+   "type": "mcq",
+   "question": "GDP danh nghĩa khác GDP thực tế ở điểm nào?",
+   "options": {
+    "A": "GDP danh nghĩa tính theo giá năm cơ sở, GDP thực tế tính theo giá hiện hành",
+    "B": "GDP danh nghĩa không tính xuất khẩu ròng",
+    "C": "GDP danh nghĩa chỉ tính hàng hóa, GDP thực tế tính cả dịch vụ",
+    "D": "GDP danh nghĩa tính theo giá hiện hành, GDP thực tế tính theo giá năm cơ sở"
+   },
+   "answers": [
+    "D"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 18",
+   "alt": null,
+   "explanation": "Đáp án đúng: D. GDP danh nghĩa tính theo giá hiện hành, GDP thực tế tính theo giá năm cơ sở\n\nGDP danh nghĩa dùng giá hiện hành, chưa điều chỉnh lạm phát; GDP thực tế dùng giá năm cơ sở nên đã loại bỏ ảnh hưởng của lạm phát. Cả hai đều tính đầy đủ hàng hóa, dịch vụ và NX.",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 44,
+   "type": "mcq",
+   "question": "Ví dụ trong bài: năm 2003 sản xuất 500 đơn vị hàng X (giá $11) và 1100 đơn vị hàng Y (giá $2,50). GDP danh nghĩa năm 2003 là:",
+   "options": {
+    "A": "$6.000",
+    "B": "$8.250",
+    "C": "$10.800",
+    "D": "$7.200"
+   },
+   "answers": [
+    "B"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 19",
+   "alt": null,
+   "explanation": "Đáp án đúng: B. $8.250\n\nGDP danh nghĩa 2003 = 11×500 + 2,5×1100 = 5.500 + 2.750 = $8.250 (dùng giá hiện hành của năm 2003). $7.200 là GDP thực tế 2003 theo giá 2002; $6.000 là GDP năm 2002; $10.800 là GDP danh nghĩa 2004.",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 45,
+   "type": "mcq",
+   "question": "Với năm cơ sở 2002 (giá X = $10, giá Y = $2), năm 2004 sản xuất 600 X và 1200 Y. GDP thực tế năm 2004 là:",
+   "options": {
+    "A": "$9.600",
+    "B": "$8.400",
+    "C": "$7.200",
+    "D": "$10.800"
+   },
+   "answers": [
+    "B"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 20",
+   "alt": null,
+   "explanation": "Đáp án đúng: B. $8.400\n\nGDP thực tế 2004 = 10×600 + 2×1200 = 6.000 + 2.400 = $8.400 (lượng năm 2004 × giá năm cơ sở 2002). $10.800 là GDP danh nghĩa 2004 (dùng giá 2004).",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 46,
+   "type": "mcq",
+   "question": "Chỉ số giảm phát GDP được tính bằng công thức:",
+   "options": {
+    "A": "100 × GDP thực tế / GDP danh nghĩa",
+    "B": "GDP danh nghĩa − GDP thực tế",
+    "C": "100 × CPI năm nay / CPI năm trước",
+    "D": "100 × GDP danh nghĩa / GDP thực tế"
+   },
+   "answers": [
+    "D"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 22",
+   "alt": null,
+   "explanation": "Đáp án đúng: D. 100 × GDP danh nghĩa / GDP thực tế\n\nChỉ số giảm phát GDP = (GDP danh nghĩa / GDP thực tế) × 100; nó đo mức giá chung của hàng hóa sản xuất trong nước. Năm cơ sở chỉ số bằng 100.",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 47,
+   "type": "mcq",
+   "question": "GDP danh nghĩa năm 2003 là $8.250, GDP thực tế là $7.200. Chỉ số giảm phát GDP năm 2003 xấp xỉ:",
+   "options": {
+    "A": "114,6",
+    "B": "87,3",
+    "C": "100,0",
+    "D": "128,6"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 23",
+   "alt": null,
+   "explanation": "Đáp án đúng: A. 114,6\n\nChỉ số giảm phát = 100 × 8.250/7.200 ≈ 114,6. 87,3 là do đảo ngược tử/mẫu; 100 là năm cơ sở 2002; 128,6 là chỉ số năm 2004.",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 48,
+   "type": "mcq",
+   "question": "Chỉ số giảm phát GDP năm 2003 là 114,6 và năm 2004 là 128,6. Tỷ lệ lạm phát năm 2004 tính theo chỉ số này xấp xỉ:",
+   "options": {
+    "A": "14,0%",
+    "B": "28,6%",
+    "C": "14,6%",
+    "D": "12,2%"
+   },
+   "answers": [
+    "D"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 23",
+   "alt": null,
+   "explanation": "Đáp án đúng: D. 12,2%\n\nLạm phát = (128,6 − 114,6)/114,6 × 100% ≈ 12,2%. 14,0 chỉ là chênh lệch điểm (chưa chia cho năm trước); 28,6% là so với năm cơ sở; 14,6% là lạm phát năm 2003.",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 49,
+   "type": "mcq",
+   "question": "Hạn chế nào sau đây là lý do GDP KHÔNG phải thước đo hoàn hảo cho phúc lợi xã hội?",
+   "options": {
+    "A": "GDP tính cả giá trị hàng hóa trung gian",
+    "B": "GDP không tính đến thời gian nghỉ ngơi và các giao dịch phi thị trường",
+    "C": "GDP đo lường cả chất lượng sản phẩm",
+    "D": "GDP có tính đến chất lượng môi trường"
+   },
+   "answers": [
+    "B"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 24",
+   "alt": null,
+   "explanation": "Đáp án đúng: B. GDP không tính đến thời gian nghỉ ngơi và các giao dịch phi thị trường\n\nBài nêu GDP là chỉ số đo về lượng; không tính dân số, thời gian nghỉ ngơi, chất lượng sản phẩm, tác động ngoại vi (như môi trường) và giao dịch phi thị trường. Các phương án còn lại mô tả sai GDP.",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 50,
+   "type": "mcq",
+   "question": "Tổng sản phẩm quốc dân (GNP) được tính bằng:",
+   "options": {
+    "A": "GNP = GDP + thu nhập nhân tố ròng từ nước ngoài (NIA)",
+    "B": "GNP = GDP − khấu hao",
+    "C": "GNP = GDP + nhập khẩu",
+    "D": "GNP = GDP − xuất khẩu ròng"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 25",
+   "alt": null,
+   "explanation": "Đáp án đúng: A. GNP = GDP + thu nhập nhân tố ròng từ nước ngoài (NIA)\n\nGNP đo giá trị hàng hóa, dịch vụ cuối cùng do CÔNG DÂN một nước sản xuất: GNP = GDP + NIA, với NIA = thu nhập yếu tố công dân nhận từ nước ngoài − thu nhập yếu tố người nước ngoài nhận từ trong nước.",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 51,
+   "type": "mcq",
+   "question": "Chỉ số giá tiêu dùng (CPI) là:",
+   "options": {
+    "A": "Giá trị hàng hóa mà doanh nghiệp bán ra",
+    "B": "Thước đo giá của tất cả hàng hóa và dịch vụ sản xuất trong nước",
+    "C": "Tỷ lệ phần trăm thay đổi GDP thực tế",
+    "D": "Thước đo chi phí tổng quát của hàng hóa và dịch vụ được mua bởi một người tiêu dùng điển hình"
+   },
+   "answers": [
+    "D"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 27",
+   "alt": null,
+   "explanation": "Đáp án đúng: D. Thước đo chi phí tổng quát của hàng hóa và dịch vụ được mua bởi một người tiêu dùng điển hình\n\nĐịnh nghĩa CPI trong bài. \"Giá của tất cả hàng hóa, dịch vụ sản xuất trong nước\" là chỉ số giảm phát GDP; % thay đổi GDP thực tế là tốc độ tăng trưởng.",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 52,
+   "type": "mcq",
+   "question": "Bước ĐẦU TIÊN trong phương pháp tính CPI là:",
+   "options": {
+    "A": "Cố định giỏ hàng hóa thông qua khảo sát hành vi mua của người tiêu dùng",
+    "B": "Tính chi phí của giỏ hàng",
+    "C": "Chọn năm cơ sở và tính chỉ số",
+    "D": "Xác định giá từng mặt hàng tại mỗi thời điểm"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 28",
+   "alt": null,
+   "explanation": "Đáp án đúng: A. Cố định giỏ hàng hóa thông qua khảo sát hành vi mua của người tiêu dùng\n\n4 bước tính CPI: (1) cố định giỏ hàng, (2) xác định giá, (3) tính chi phí giỏ hàng, (4) chọn năm cơ sở và tính chỉ số. Phải biết giỏ hàng gồm gì trước thì mới thu thập giá được.",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 53,
+   "type": "mcq",
+   "question": "CPI năm 2007 = 100, năm 2008 = 158, năm 2009 = 217. Tỷ lệ lạm phát năm 2009 xấp xỉ:",
+   "options": {
+    "A": "37%",
+    "B": "59%",
+    "C": "117%",
+    "D": "58%"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 29",
+   "alt": null,
+   "explanation": "Đáp án đúng: A. 37%\n\nLạm phát 2009 = (217 − 158)/158 × 100% ≈ 37,3%. 59 chỉ là chênh lệch điểm; 117% là so với năm 2007 (năm cơ sở); 58% là lạm phát năm 2008.",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 54,
+   "type": "mcq",
+   "question": "Lãi suất danh nghĩa là 8%/năm, tỷ lệ lạm phát là 5%/năm. Lãi suất thực xấp xỉ:",
+   "options": {
+    "A": "13%",
+    "B": "−3%",
+    "C": "1,6%",
+    "D": "3%"
+   },
+   "answers": [
+    "D"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 35",
+   "alt": null,
+   "explanation": "Đáp án đúng: D. 3%\n\nLãi suất thực = lãi suất danh nghĩa − tỷ lệ lạm phát = 8% − 5% = 3%. Đây là mức tăng sức mua thực tế của khoản tiền gửi.",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 55,
+   "type": "tf",
+   "question": "GDP vừa đo lường tổng thu nhập vừa đo lường tổng chi tiêu của nền kinh tế.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 3",
+   "alt": null,
+   "explanation": "ĐÚNG. Với toàn bộ nền kinh tế, mỗi đồng chi tiêu của người mua là một đồng thu nhập của người bán, nên tổng thu nhập luôn bằng tổng chi tiêu và cả hai bằng GDP.",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 56,
+   "type": "tf",
+   "question": "GDP tính cả giá trị các hàng hóa được buôn bán bất hợp pháp như ma túy.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "B"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 7",
+   "alt": null,
+   "explanation": "SAI. GDP chỉ bao gồm hàng hóa được sản xuất và bán HỢP PHÁP trên thị trường. Hàng hóa bất hợp pháp không được ghi nhận (và cũng khó đo lường).",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 57,
+   "type": "tf",
+   "question": "GDP bao gồm cả hàng hóa hữu hình và dịch vụ vô hình.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 8",
+   "alt": null,
+   "explanation": "ĐÚNG. GDP gồm hàng hóa hữu hình (thức ăn, quần áo, xe máy) và hàng hóa vô hình (cắt tóc, vệ sinh nhà cửa, buổi hòa nhạc).",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 58,
+   "type": "tf",
+   "question": "Lốp xe mà nhà máy ô tô mua về để lắp vào xe mới được tính riêng vào GDP bên cạnh giá trị chiếc xe.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "B"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 9",
+   "alt": null,
+   "explanation": "SAI. Lốp xe trong trường hợp này là hàng trung gian; giá trị của nó đã nằm trong giá chiếc xe (hàng cuối cùng). Tính riêng sẽ bị tính trùng.",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 59,
+   "type": "tf",
+   "question": "Việc bán lại một chiếc xe máy đã qua sử dụng (sản xuất từ năm trước) làm tăng GDP năm nay đúng bằng giá bán của xe.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "B"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 10",
+   "alt": null,
+   "explanation": "SAI. GDP chỉ tính hàng hóa sản xuất trong thời kỳ đang xét. Chiếc xe đã được tính vào GDP năm nó được sản xuất; giao dịch bán lại chỉ chuyển quyền sở hữu. (Chỉ phí dịch vụ môi giới, nếu có, mới được tính.)",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 60,
+   "type": "tf",
+   "question": "Thu nhập của một kỹ sư người Việt làm việc tại Nhật được tính vào GDP của Việt Nam.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "B"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 11",
+   "alt": null,
+   "explanation": "SAI. GDP tính theo lãnh thổ: thu nhập này tạo ra trong lãnh thổ Nhật nên tính vào GDP Nhật. Nó được tính vào GNP của Việt Nam (thông qua thu nhập nhân tố ròng từ nước ngoài).",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 61,
+   "type": "tf",
+   "question": "Chi tiêu của hộ gia đình (C) bao gồm chi cho hàng hóa lâu bền, hàng hóa không lâu bền và dịch vụ.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 14",
+   "alt": null,
+   "explanation": "ĐÚNG. Theo bài, C là tổng chi tiêu của hộ gia đình cho hàng hóa (lâu bền và không lâu bền) và dịch vụ. Riêng mua nhà mới được tính vào đầu tư.",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 62,
+   "type": "tf",
+   "question": "Phần hàng hóa sản xuất ra trong năm nhưng chưa bán được, được đưa vào kho, vẫn được tính vào GDP năm đó.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 15",
+   "alt": null,
+   "explanation": "ĐÚNG. Phần tăng hàng tồn kho được tính vào đầu tư (I) — doanh nghiệp được xem như \"tự mua\" hàng của mình. Nhờ vậy GDP phản ánh đúng lượng sản xuất trong kỳ.",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 63,
+   "type": "tf",
+   "question": "Trợ cấp thất nghiệp được tính vào mua sắm của chính phủ (G).",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "B"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 16",
+   "alt": null,
+   "explanation": "SAI. Trợ cấp thất nghiệp là chi chuyển khoản: chính phủ chuyển thu nhập cho người dân mà không nhận lại hàng hóa hay dịch vụ nào, nên không tính vào G (và không tính vào GDP).",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 64,
+   "type": "tf",
+   "question": "Thay đổi trong GDP thực tế chỉ phản ánh sự thay đổi về số lượng hàng hóa, dịch vụ được sản xuất.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 21",
+   "alt": null,
+   "explanation": "ĐÚNG. GDP thực tế cố định giá ở năm cơ sở, nên khi nó thay đổi thì chỉ có thể do lượng sản xuất thay đổi. GDP danh nghĩa thì phản ánh cả thay đổi giá lẫn lượng.",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 65,
+   "type": "tf",
+   "question": "Tại năm cơ sở, GDP danh nghĩa bằng GDP thực tế nên chỉ số giảm phát GDP bằng 100.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 23",
+   "alt": null,
+   "explanation": "ĐÚNG. Ở năm cơ sở, giá hiện hành chính là giá năm cơ sở nên GDP danh nghĩa = GDP thực tế, và chỉ số giảm phát = 100 × 1 = 100 (ví dụ năm 2002 trong bài).",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 66,
+   "type": "tf",
+   "question": "GDP là chỉ tiêu phản ánh cả số lượng lẫn chất lượng của hàng hóa và dịch vụ trong nền kinh tế.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "B"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 24",
+   "alt": null,
+   "explanation": "SAI. Bài nhấn mạnh GDP là chỉ số đo về LƯỢNG, không phải chất; nó không phản ánh chất lượng sản phẩm, thời gian nghỉ ngơi, tác động ngoại vi hay giao dịch phi thị trường.",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 67,
+   "type": "tf",
+   "question": "Với nước có nhiều lao động làm việc ở nước ngoài gửi thu nhập về (NIA > 0), GNP lớn hơn GDP.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 25",
+   "alt": null,
+   "explanation": "ĐÚNG. GNP = GDP + NIA. Khi thu nhập nhân tố công dân nhận từ nước ngoài lớn hơn phần người nước ngoài nhận từ trong nước (NIA > 0) thì GNP > GDP.",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 68,
+   "type": "tf",
+   "question": "CPI phản ánh giá của cả hàng hóa nhập khẩu mà người tiêu dùng mua, còn chỉ số giảm phát GDP chỉ phản ánh giá hàng sản xuất trong nước.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 31",
+   "alt": null,
+   "explanation": "ĐÚNG. CPI đo giá giỏ hàng người tiêu dùng mua (gồm hàng nội địa và ngoại nhập); chỉ số giảm phát GDP đo giá mọi hàng hóa, dịch vụ sản xuất trong nước.",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 69,
+   "type": "tf",
+   "question": "CPI sử dụng giỏ hàng có quyền số thay đổi mỗi năm, còn chỉ số giảm phát GDP dùng giỏ hàng cố định.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "B"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 31",
+   "alt": null,
+   "explanation": "SAI. Ngược lại: CPI dùng giỏ hàng CỐ ĐỊNH (quyền số không đổi), còn chỉ số giảm phát GDP có quyền số thay đổi theo cơ cấu sản xuất từng năm.",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 70,
+   "type": "tf",
+   "question": "\"Thiên vị thay thế\" là một trong các vấn đề khiến CPI đo lường chi phí sinh hoạt chưa chính xác.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 2 – Dữ liệu kinh tế vĩ mô, slide 30",
+   "alt": null,
+   "explanation": "ĐÚNG. Khi giá một mặt hàng tăng, người tiêu dùng chuyển sang mặt hàng rẻ hơn, nhưng CPI vẫn giữ giỏ hàng cố định nên phóng đại mức tăng chi phí sinh hoạt. Hai vấn đề khác là hàng hóa mới và thay đổi chất lượng không đo lường được.",
+   "exam": "Chương 2"
+  },
+  {
+   "id": 71,
+   "type": "mcq",
+   "question": "Tăng trưởng kinh tế là:",
+   "options": {
+    "A": "Sự gia tăng quy mô sản lượng của nền kinh tế trong một thời kỳ nhất định",
+    "B": "Sự gia tăng lượng tiền trong lưu thông",
+    "C": "Sự gia tăng dân số của một quốc gia",
+    "D": "Sự gia tăng mức giá chung của nền kinh tế"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 3 – Sản xuất và tăng trưởng, slide 5",
+   "alt": null,
+   "explanation": "Đáp án đúng: A. Sự gia tăng quy mô sản lượng của nền kinh tế trong một thời kỳ nhất định\n\nĐịnh nghĩa trong bài. Gia tăng mức giá chung là lạm phát; dân số hay lượng tiền tăng không đồng nghĩa với sản lượng tăng.",
+   "exam": "Chương 3"
+  },
+  {
+   "id": 72,
+   "type": "mcq",
+   "question": "GDP thực tế năm 2023 là 500 tỷ, năm 2024 là 530 tỷ. Tốc độ tăng trưởng kinh tế năm 2024 là:",
+   "options": {
+    "A": "30%",
+    "B": "6%",
+    "C": "5,7%",
+    "D": "106%"
+   },
+   "answers": [
+    "B"
+   ],
+   "choose": 1,
+   "note": "Chương 3 – Sản xuất và tăng trưởng, slide 5",
+   "alt": null,
+   "explanation": "Đáp án đúng: B. 6%\n\ng = (GDPt − GDPt−1)/GDPt−1 × 100% = (530 − 500)/500 × 100% = 6%. 5,7% là do chia nhầm cho 530; 30 chỉ là mức tăng tuyệt đối (tỷ); 106% là tỷ số GDPt/GDPt−1.",
+   "exam": "Chương 3"
+  },
+  {
+   "id": 73,
+   "type": "mcq",
+   "question": "Theo bài, điều nào sau đây đúng về thứ hạng thu nhập giữa các nước theo thời gian?",
+   "options": {
+    "A": "Thứ hạng chỉ thay đổi khi có chiến tranh",
+    "B": "Nước giàu luôn giữ vững vị trí của mình",
+    "C": "Nước nghèo luôn mãi là nước nghèo",
+    "D": "Thứ hạng có thể thay đổi vì tốc độ tăng trưởng giữa các nước khác nhau"
+   },
+   "answers": [
+    "D"
+   ],
+   "choose": 1,
+   "note": "Chương 3 – Sản xuất và tăng trưởng, slide 8",
+   "alt": null,
+   "explanation": "Đáp án đúng: D. Thứ hạng có thể thay đổi vì tốc độ tăng trưởng giữa các nước khác nhau\n\nDo tốc độ tăng trưởng khác nhau, nước nghèo không nhất thiết mãi nghèo, và nước giàu cũng không được đảm bảo vị trí — có thể bị nước nghèo hơn nhưng tăng trưởng nhanh hơn vượt qua.",
+   "exam": "Chương 3"
+  },
+  {
+   "id": 74,
+   "type": "mcq",
+   "question": "Kiến thức, kỹ năng mà người lao động có được thông qua giáo dục, đào tạo và kinh nghiệm được gọi là:",
+   "options": {
+    "A": "Tài nguyên thiên nhiên (N)",
+    "B": "Vốn nhân lực (H)",
+    "C": "Vốn vật chất (K)",
+    "D": "Kiến thức công nghệ (A)"
+   },
+   "answers": [
+    "B"
+   ],
+   "choose": 1,
+   "note": "Chương 3 – Sản xuất và tăng trưởng, slide 19",
+   "alt": null,
+   "explanation": "Đáp án đúng: B. Vốn nhân lực (H)\n\nĐó là định nghĩa vốn nhân lực (H). Vốn vật chất là máy móc, cơ sở hạ tầng; tài nguyên thiên nhiên do tự nhiên cung cấp; công nghệ là hiểu biết của XÃ HỘI về cách sản xuất tốt nhất (còn H gắn với từng người lao động).",
+   "exam": "Chương 3"
+  },
+  {
+   "id": 75,
+   "type": "mcq",
+   "question": "Trữ lượng máy móc, thiết bị và cơ sở hạ tầng dùng để sản xuất hàng hóa và dịch vụ được gọi là:",
+   "options": {
+    "A": "Tiến bộ công nghệ A",
+    "B": "Vốn vật chất (tư bản) K",
+    "C": "Tài nguyên thiên nhiên N",
+    "D": "Vốn nhân lực H"
+   },
+   "answers": [
+    "B"
+   ],
+   "choose": 1,
+   "note": "Chương 3 – Sản xuất và tăng trưởng, slide 18",
+   "alt": null,
+   "explanation": "Đáp án đúng: B. Vốn vật chất (tư bản) K\n\nVốn vật chất (K) là trữ lượng máy móc, thiết bị và cấu trúc cơ sở hạ tầng — bản thân chúng cũng là sản phẩm được sản xuất ra để dùng cho sản xuất.",
+   "exam": "Chương 3"
+  },
+  {
+   "id": 76,
+   "type": "mcq",
+   "question": "Trong hàm sản xuất Y = A·F(L, K, H, N), biến A thể hiện:",
+   "options": {
+    "A": "Trình độ công nghệ",
+    "B": "Lượng lao động",
+    "C": "Tài nguyên thiên nhiên",
+    "D": "Vốn nhân lực"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 3 – Sản xuất và tăng trưởng, slide 14",
+   "alt": null,
+   "explanation": "Đáp án đúng: A. Trình độ công nghệ\n\nA là kiến thức công nghệ — nhân với F(·) nên khi A tăng, cùng lượng đầu vào sẽ cho nhiều sản lượng hơn. L là lao động, N là tài nguyên thiên nhiên, H là vốn nhân lực.",
+   "exam": "Chương 3"
+  },
+  {
+   "id": 77,
+   "type": "mcq",
+   "question": "Hàm sản xuất nào sau đây có lợi suất KHÔNG ĐỔI theo quy mô?",
+   "options": {
+    "A": "Y = K² + L",
+    "B": "Y = L^(1/2) · K^(1/2)",
+    "C": "Y = 2KL",
+    "D": "Y = K·L²"
+   },
+   "answers": [
+    "B"
+   ],
+   "choose": 1,
+   "note": "Chương 3 – Sản xuất và tăng trưởng, slide 15",
+   "alt": null,
+   "explanation": "Đáp án đúng: B. Y = L^(1/2) · K^(1/2)\n\nNhân L và K với z: (zL)^½(zK)^½ = z·L^½K^½ = zY → lợi suất không đổi. Với Y = 2KL: 2(zK)(zL) = z²Y → sản lượng tăng nhanh hơn (lợi suất tăng). Hai hàm còn lại cũng không cho đúng zY.",
+   "exam": "Chương 3"
+  },
+  {
+   "id": 78,
+   "type": "mcq",
+   "question": "Năng suất được định nghĩa là:",
+   "options": {
+    "A": "Số lượng hàng hóa và dịch vụ được sản xuất ra từ mỗi đơn vị nhập lượng lao động",
+    "B": "Số giờ làm việc của mỗi lao động",
+    "C": "Tổng số vốn đầu tư trong năm",
+    "D": "Tổng sản lượng của nền kinh tế"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 3 – Sản xuất và tăng trưởng, slide 16",
+   "alt": null,
+   "explanation": "Đáp án đúng: A. Số lượng hàng hóa và dịch vụ được sản xuất ra từ mỗi đơn vị nhập lượng lao động\n\nNăng suất = Y/L — sản lượng trên mỗi đơn vị lao động. Tổng sản lượng (Y) chưa chia cho lao động nên không phản ánh năng suất.",
+   "exam": "Chương 3"
+  },
+  {
+   "id": 79,
+   "type": "mcq",
+   "question": "Với hàm sản xuất có lợi suất không đổi theo quy mô, chọn z = 1/L ta được Y/L = A·F(1, K/L, H/L, N/L). Năng suất KHÔNG phụ thuộc trực tiếp vào yếu tố nào sau đây?",
+   "options": {
+    "A": "Tư bản trên mỗi lao động (K/L)",
+    "B": "Trình độ công nghệ (A)",
+    "C": "Vốn nhân lực trên mỗi lao động (H/L)",
+    "D": "Mức giá chung của nền kinh tế"
+   },
+   "answers": [
+    "D"
+   ],
+   "choose": 1,
+   "note": "Chương 3 – Sản xuất và tăng trưởng, slide 17",
+   "alt": null,
+   "explanation": "Đáp án đúng: D. Mức giá chung của nền kinh tế\n\nTheo công thức, năng suất Y/L phụ thuộc vào A, K/L, H/L và N/L. Mức giá chung không có trong hàm sản xuất — hàm sản xuất mô tả quan hệ giữa các lượng đầu vào và đầu ra thực.",
+   "exam": "Chương 3"
+  },
+  {
+   "id": 80,
+   "type": "mcq",
+   "question": "Vì sao một số nước như Nhật Bản vẫn giàu dù ít tài nguyên thiên nhiên?",
+   "options": {
+    "A": "Vì tài nguyên thiên nhiên không ảnh hưởng gì đến sản lượng",
+    "B": "Họ có thể nhập khẩu tài nguyên và dựa vào vốn vật chất, vốn nhân lực, công nghệ",
+    "C": "Vì Nhật Bản in nhiều tiền",
+    "D": "Vì Nhật Bản có dân số tăng rất nhanh"
+   },
+   "answers": [
+    "B"
+   ],
+   "choose": 1,
+   "note": "Chương 3 – Sản xuất và tăng trưởng, slide 20",
+   "alt": null,
+   "explanation": "Đáp án đúng: B. Họ có thể nhập khẩu tài nguyên và dựa vào vốn vật chất, vốn nhân lực, công nghệ\n\nBài nêu: một số nước không cần nhiều N để giàu có (Nhật nhập khẩu N cần thiết). Tài nguyên vẫn có ảnh hưởng (N/L tăng → Y/L tăng) nhưng không phải điều kiện bắt buộc. In tiền gây lạm phát; dân số tăng nhanh làm giảm GDP bình quân.",
+   "exam": "Chương 3"
+  },
+  {
+   "id": 81,
+   "type": "mcq",
+   "question": "Theo bài, yếu tố nào được xem là \"trung chuyển\" tri thức công nghệ vào quá trình sản xuất dùng tư bản hiện vật?",
+   "options": {
+    "A": "Lao động giản đơn",
+    "B": "Tài nguyên thiên nhiên",
+    "C": "Đầu tư gián tiếp nước ngoài",
+    "D": "Vốn nhân lực"
+   },
+   "answers": [
+    "D"
+   ],
+   "choose": 1,
+   "note": "Chương 3 – Sản xuất và tăng trưởng, slide 21",
+   "alt": null,
+   "explanation": "Đáp án đúng: D. Vốn nhân lực\n\nBài nêu: vốn nhân lực là yếu tố trung chuyển tri thức công nghệ vào quá trình sản xuất dùng tư bản hiện vật — người có kiến thức, kỹ năng mới vận dụng được công nghệ vào máy móc.",
+   "exam": "Chương 3"
+  },
+  {
+   "id": 82,
+   "type": "mcq",
+   "question": "Quy luật sinh lợi (lợi suất) giảm dần của tư bản nói rằng:",
+   "options": {
+    "A": "Khi K tăng, sản lượng tăng thêm từ mỗi đơn vị tư bản bổ sung sẽ giảm xuống",
+    "B": "Khi K tăng, sản lượng tăng thêm từ mỗi đơn vị tư bản bổ sung sẽ tăng lên",
+    "C": "Khi lao động tăng, tư bản giảm",
+    "D": "Khi K tăng, tổng sản lượng giảm xuống"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 3 – Sản xuất và tăng trưởng, slide 26",
+   "alt": null,
+   "explanation": "Đáp án đúng: A. Khi K tăng, sản lượng tăng thêm từ mỗi đơn vị tư bản bổ sung sẽ giảm xuống\n\nSinh lợi giảm dần: tổng sản lượng vẫn TĂNG khi K tăng, nhưng phần tăng thêm do mỗi đơn vị K bổ sung ngày càng NHỎ. Nhầm \"tổng sản lượng giảm\" là lỗi thường gặp.",
+   "exam": "Chương 3"
+  },
+  {
+   "id": 83,
+   "type": "mcq",
+   "question": "\"Hiệu ứng đuổi kịp\" là đặc tính theo đó:",
+   "options": {
+    "A": "Các nước giàu luôn tăng trưởng nhanh hơn các nước nghèo",
+    "B": "Các nước khởi đầu nghèo có xu hướng tăng trưởng nhanh hơn các nước khởi đầu giàu",
+    "C": "Mọi nước đều có cùng tốc độ tăng trưởng",
+    "D": "Các nước nghèo không thể bắt kịp các nước giàu"
+   },
+   "answers": [
+    "B"
+   ],
+   "choose": 1,
+   "note": "Chương 3 – Sản xuất và tăng trưởng, slide 28",
+   "alt": null,
+   "explanation": "Đáp án đúng: B. Các nước khởi đầu nghèo có xu hướng tăng trưởng nhanh hơn các nước khởi đầu giàu\n\nDo sinh lợi giảm dần, nước nghèo có ít K/L nên thêm một đơn vị tư bản làm năng suất tăng nhiều; nước giàu đã có nhiều K/L nên tăng thêm ít. Vì vậy nước nghèo có xu hướng tăng trưởng nhanh hơn.",
+   "exam": "Chương 3"
+  },
+  {
+   "id": 84,
+   "type": "mcq",
+   "question": "Nhà đầu tư nước ngoài bỏ vốn xây nhà máy tại Việt Nam và trực tiếp tham gia quản lý doanh nghiệp. Đây là hình thức:",
+   "options": {
+    "A": "Xuất khẩu ròng",
+    "B": "Đầu tư gián tiếp nước ngoài",
+    "C": "Đầu tư trực tiếp nước ngoài",
+    "D": "Viện trợ không hoàn lại"
+   },
+   "answers": [
+    "C"
+   ],
+   "choose": 1,
+   "note": "Chương 3 – Sản xuất và tăng trưởng, slide 29",
+   "alt": null,
+   "explanation": "Đáp án đúng: C. Đầu tư trực tiếp nước ngoài\n\nĐầu tư trực tiếp (FDI): người nước ngoài mang vốn vào và trực tiếp quản lý doanh nghiệp. Đầu tư gián tiếp: mang vốn vào (ví dụ mua cổ phiếu) nhưng không tham gia quản lý.",
+   "exam": "Chương 3"
+  },
+  {
+   "id": 85,
+   "type": "mcq",
+   "question": "Một quỹ nước ngoài mua 3% cổ phiếu của một công ty niêm yết Việt Nam nhưng không tham gia điều hành. Đây là:",
+   "options": {
+    "A": "Đầu tư vào hàng tồn kho",
+    "B": "Mua sắm của chính phủ",
+    "C": "Đầu tư trực tiếp nước ngoài",
+    "D": "Đầu tư gián tiếp nước ngoài"
+   },
+   "answers": [
+    "D"
+   ],
+   "choose": 1,
+   "note": "Chương 3 – Sản xuất và tăng trưởng, slide 29",
+   "alt": null,
+   "explanation": "Đáp án đúng: D. Đầu tư gián tiếp nước ngoài\n\nMang vốn vào đầu tư nhưng KHÔNG tham gia quản lý doanh nghiệp (mua cổ phiếu…) là đầu tư gián tiếp nước ngoài.",
+   "exam": "Chương 3"
+  },
+  {
+   "id": 86,
+   "type": "mcq",
+   "question": "Hiện tượng \"chảy máu chất xám\" gây ảnh hưởng trực tiếp đến nguồn lực tăng trưởng nào?",
+   "options": {
+    "A": "Tài nguyên thiên nhiên (N)",
+    "B": "Vốn nhân lực (H)",
+    "C": "Đất đai",
+    "D": "Vốn vật chất (K)"
+   },
+   "answers": [
+    "B"
+   ],
+   "choose": 1,
+   "note": "Chương 3 – Sản xuất và tăng trưởng, slide 30",
+   "alt": null,
+   "explanation": "Đáp án đúng: B. Vốn nhân lực (H)\n\nChảy máu chất xám là việc lao động có trình độ cao ra nước ngoài làm việc, làm giảm vốn nhân lực trong nước — vấn đề bài nêu trong phần đầu tư giáo dục và đào tạo.",
+   "exam": "Chương 3"
+  },
+  {
+   "id": 87,
+   "type": "mcq",
+   "question": "Tốc độ gia tăng dân số cao có thể gây tác động nào sau đây?",
+   "options": {
+    "A": "Làm giảm GDP bình quân đầu người và tạo gánh nặng cho hệ thống giáo dục",
+    "B": "Luôn làm tăng GDP bình quân đầu người",
+    "C": "Không ảnh hưởng đến mức sống",
+    "D": "Làm tăng tư bản trên mỗi lao động"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 3 – Sản xuất và tăng trưởng, slide 33",
+   "alt": null,
+   "explanation": "Đáp án đúng: A. Làm giảm GDP bình quân đầu người và tạo gánh nặng cho hệ thống giáo dục\n\nBài nêu: tốc độ tăng dân số cao làm giảm GDP bình quân đầu người và tạo gánh nặng cho giáo dục; dân số tăng nhanh cũng làm K/L bị \"pha loãng\". Vì vậy kiểm soát gia tăng dân số giúp nước kém phát triển cải thiện mức sống.",
+   "exam": "Chương 3"
+  },
+  {
+   "id": 88,
+   "type": "mcq",
+   "question": "Biện pháp nào sau đây là cách chính phủ khuyến khích nghiên cứu và phát triển (R&D)?",
+   "options": {
+    "A": "Tăng thuế đối với sản xuất dùng công nghệ mới",
+    "B": "Hạn chế nhập khẩu tri thức nước ngoài",
+    "C": "Hệ thống công nhận và bảo hộ sáng chế",
+    "D": "Cắt giảm ngân sách giáo dục"
+   },
+   "answers": [
+    "C"
+   ],
+   "choose": 1,
+   "note": "Chương 3 – Sản xuất và tăng trưởng, slide 34",
+   "alt": null,
+   "explanation": "Đáp án đúng: C. Hệ thống công nhận và bảo hộ sáng chế\n\nBài liệt kê: các chương trình tài trợ, hỗ trợ nghiên cứu; GIẢM thuế cho sản xuất dùng công nghệ mới; hệ thống công nhận và bảo hộ sáng chế. Các phương án khác đi ngược lại mục tiêu khuyến khích R&D.",
+   "exam": "Chương 3"
+  },
+  {
+   "id": 89,
+   "type": "tf",
+   "question": "Tốc độ tăng trưởng kinh tế hàng năm được tính bằng (GDPt − GDPt−1)/GDPt−1 × 100%.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 3 – Sản xuất và tăng trưởng, slide 5",
+   "alt": null,
+   "explanation": "ĐÚNG. Đây là công thức tốc độ tăng trưởng mỗi năm trong bài: phần trăm thay đổi GDP (thực tế) năm t so với năm t−1.",
+   "exam": "Chương 3"
+  },
+  {
+   "id": 90,
+   "type": "tf",
+   "question": "Mức sống của một quốc gia phụ thuộc vào khả năng sản xuất hàng hóa và dịch vụ, và khả năng này phụ thuộc vào năng suất.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 3 – Sản xuất và tăng trưởng, slide 14",
+   "alt": null,
+   "explanation": "ĐÚNG. Bài khẳng định: mức sống phụ thuộc khả năng sản xuất, mà khả năng sản xuất phụ thuộc vào năng suất (nối với nguyên lý 8 ở Chương 1).",
+   "exam": "Chương 3"
+  },
+  {
+   "id": 91,
+   "type": "tf",
+   "question": "Hàm sản xuất Y = 2KL có lợi suất không đổi theo quy mô.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "B"
+   ],
+   "choose": 1,
+   "note": "Chương 3 – Sản xuất và tăng trưởng, slide 15",
+   "alt": null,
+   "explanation": "SAI. Khi nhân K và L với z: 2(zK)(zL) = z²·2KL = z²Y. Sản lượng tăng theo z² (nhiều hơn z lần) nên đây là lợi suất TĂNG theo quy mô. Hàm Y = L^½K^½ mới có lợi suất không đổi.",
+   "exam": "Chương 3"
+  },
+  {
+   "id": 92,
+   "type": "tf",
+   "question": "Khi năng suất lao động tăng nhanh thì mức sống của người dân cũng tăng nhanh.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 3 – Sản xuất và tăng trưởng, slide 16",
+   "alt": null,
+   "explanation": "ĐÚNG. Theo bài, năng suất cao → GDP thực tế và thu nhập cao; năng suất tăng nhanh thì mức sống cũng tăng nhanh.",
+   "exam": "Chương 3"
+  },
+  {
+   "id": 93,
+   "type": "tf",
+   "question": "Tăng tư bản trên mỗi lao động (K/L) dẫn đến tăng năng suất (Y/L).",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 3 – Sản xuất và tăng trưởng, slide 18",
+   "alt": null,
+   "explanation": "ĐÚNG. Công nhân có nhiều công cụ làm việc (máy móc, thiết bị) hơn sẽ đạt năng suất cao hơn: tăng K/L dẫn đến tăng Y/L.",
+   "exam": "Chương 3"
+  },
+  {
+   "id": 94,
+   "type": "tf",
+   "question": "Quốc gia muốn giàu có bắt buộc phải có nguồn tài nguyên thiên nhiên dồi dào.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "B"
+   ],
+   "choose": 1,
+   "note": "Chương 3 – Sản xuất và tăng trưởng, slide 20",
+   "alt": null,
+   "explanation": "SAI. Tài nguyên giúp tăng năng suất (như Ả Rập Saudi có dầu mỏ), nhưng không phải điều kiện bắt buộc: Nhật Bản ít tài nguyên vẫn giàu nhờ nhập khẩu tài nguyên và dựa vào K, H, công nghệ.",
+   "exam": "Chương 3"
+  },
+  {
+   "id": 95,
+   "type": "tf",
+   "question": "Tiến bộ công nghệ cho phép xã hội có thêm nhiều sản lượng hơn từ cùng một lượng nguồn lực.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 3 – Sản xuất và tăng trưởng, slide 21",
+   "alt": null,
+   "explanation": "ĐÚNG. Tiến bộ công nghệ là kiến thức tiên tiến giúp đẩy mạnh năng suất — cùng nguồn lực nhưng sản xuất được nhiều hơn.",
+   "exam": "Chương 3"
+  },
+  {
+   "id": 96,
+   "type": "tf",
+   "question": "Khi xã hội đầu tư nhiều hơn cho tư bản thì phải giảm tiêu dùng hiện tại và tiết kiệm nhiều hơn.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 3 – Sản xuất và tăng trưởng, slide 24",
+   "alt": null,
+   "explanation": "ĐÚNG. Nguồn lực có hạn: muốn dành nhiều nguồn lực cho sản xuất hàng tư bản thì phải tiêu dùng ít lại, tiết kiệm nhiều hơn — đánh đổi giữa hiện tại và tương lai.",
+   "exam": "Chương 3"
+  },
+  {
+   "id": 97,
+   "type": "tf",
+   "question": "Nhờ tăng tiết kiệm và đầu tư, một quốc gia có thể duy trì tốc độ tăng trưởng cao hơn mãi mãi.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "B"
+   ],
+   "choose": 1,
+   "note": "Chương 3 – Sản xuất và tăng trưởng, slide 26",
+   "alt": null,
+   "explanation": "SAI. Do quy luật sinh lợi giảm dần, tăng tiết kiệm và đầu tư chỉ giúp tăng trưởng nhanh hơn trong một khoảng thời gian nhất định; khi K đã lớn, mỗi đơn vị K bổ sung tạo thêm ít sản lượng hơn.",
+   "exam": "Chương 3"
+  },
+  {
+   "id": 98,
+   "type": "tf",
+   "question": "Đầu tư nước ngoài vừa làm tăng trữ lượng tư bản trong nước, vừa có thể giúp nước kém phát triển tiếp thu công nghệ tiên tiến.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 3 – Sản xuất và tăng trưởng, slide 29",
+   "alt": null,
+   "explanation": "ĐÚNG. Bài nêu cả hai lợi ích: tăng trữ lượng tư bản và giúp nước kém phát triển thừa kế công nghệ tiên tiến từ các nước phát triển hơn.",
+   "exam": "Chương 3"
+  },
+  {
+   "id": 99,
+   "type": "tf",
+   "question": "Bảo vệ quyền sở hữu tài sản và ổn định chính trị không ảnh hưởng đến tăng trưởng kinh tế.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "B"
+   ],
+   "choose": 1,
+   "note": "Chương 3 – Sản xuất và tăng trưởng, slide 31",
+   "alt": null,
+   "explanation": "SAI. Bài khẳng định chính phủ có thể thúc đẩy tăng trưởng qua bảo vệ quyền sở hữu và ổn định chính trị; nước có tòa án hiệu quả, công chức trung thực, chính trị ổn định sẽ có mức sống cao hơn.",
+   "exam": "Chương 3"
+  },
+  {
+   "id": 100,
+   "type": "tf",
+   "question": "Theo bài, các nước nghèo sẽ có lợi khi áp dụng chính sách hướng ngoại, dỡ bỏ rào cản thương mại.",
+   "options": {
+    "A": "Đúng",
+    "B": "Sai"
+   },
+   "answers": [
+    "A"
+   ],
+   "choose": 1,
+   "note": "Chương 3 – Sản xuất và tăng trưởng, slide 32",
+   "alt": null,
+   "explanation": "ĐÚNG. Chính sách hướng ngoại giúp hội nhập kinh tế thế giới; dỡ bỏ rào cản thương mại có tác dụng tăng trưởng giống như có tiến bộ công nghệ.",
+   "exam": "Chương 3"
+  }
+ ]
+}
